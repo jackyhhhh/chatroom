@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+    <server host="localhost" port="8444"/>
+    <database>
+        <jdbc_driver>com.mysql.cj.jdbc.Driver</jdbc_driver>
+        <db_host>localhost</db_host>
+        <db_port>3306</db_port>
+        <db_name>chatroom</db_name>
+        <db_user>root</db_user>
+        <db_password>root</db_password>
+    </database>
+</project>
+
